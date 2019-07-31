@@ -12,10 +12,6 @@ import (
 	"time"
 )
 
-func setup() {
-
-}
-
 func main() {
 
 	//dns resolver from dns cache package
